@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":false,"name":"故事結尾","order":9,"parentId":0,"scrollX":982.8,"scrollY":527.4},
+{"id":2,"expanded":false,"name":"別墅 1F","order":5,"parentId":6,"scrollX":1638,"scrollY":879},
+{"id":3,"expanded":false,"name":"道具商店","order":6,"parentId":6,"scrollX":819,"scrollY":439.5},
+{"id":4,"expanded":false,"name":"被詛咒的洞窟","order":10,"parentId":0,"scrollX":1622,"scrollY":1521},
+{"id":5,"expanded":true,"name":"世界 1","order":1,"parentId":0,"scrollX":982.8,"scrollY":527.4},
+{"id":6,"expanded":true,"name":"普通城鎮","order":3,"parentId":0,"scrollX":973.1999999999999,"scrollY":1041},
+{"id":7,"expanded":true,"name":"石窟","order":2,"parentId":5,"scrollX":1638,"scrollY":879},
+{"id":8,"expanded":false,"name":"旅館 1F","order":4,"parentId":6,"scrollX":1638,"scrollY":879},
+{"id":9,"expanded":true,"name":"漂浮城市","order":7,"parentId":0,"scrollX":1622,"scrollY":879},
+{"id":10,"expanded":false,"name":"惡魔城堡 3F","order":8,"parentId":9,"scrollX":1638,"scrollY":879}
+]
